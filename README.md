@@ -22,7 +22,3 @@ El proyecto está organizado en varios archivos para facilitar su mantenimiento:
 - Compilador compatible con C++11 o superior.
 - Entorno de desarrollo C++ como Visual Studio, Code::Blocks, o simplemente un compilador como `g++`.
 
-## Instalación
-1. Clona el repositorio o descarga el código fuente:
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
