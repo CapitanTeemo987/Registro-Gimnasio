@@ -16,7 +16,7 @@ El proyecto está organizado en varios archivos para facilitar su mantenimiento:
 - **Archivos de cabecera (`.h`):** Declaración de las clases `Ejercicio` y sus derivados, como `PressInclinado`, `CurlPolea`, etc.
 - **Archivo principal (`Main.cpp`):** Contiene el menú principal y la lógica de interacción con el usuario.
 - **Archivos de datos (`.txt`):** Cada tipo de ejercicio genera su propio archivo donde se almacenan los registros.
-- **Es importante modificar la ubicación de las capretas antes de darle uso al codigo. En caso contrario soltara errores.
+- Es importante modificar la ubicación de las capretas antes de darle uso al codigo. En caso contrario soltara errores.
 
 ## Requisitos
 - Compilador compatible con C++11 o superior.
